@@ -1,0 +1,11 @@
+# id|donorId|amount|date|mode|purpose|remarks   (sample data)
+1|1|5000.00|2026-08-05|UPI|Education|School books drive
+2|2|2500.00|2026-08-12|CASH|Food Distribution|
+3|1|10000.00|2026-08-30|BANK_TRANSFER|Medical Aid|Free medical camp
+4|3|1000.00|2026-08-25|CASH|General Fund|
+5|4|7500.00|2026-09-04|CARD|Education|Scholarship fund
+6|5|3000.00|2026-09-18|UPI|Clothing|Winter clothes drive
+7|2|15000.00|2026-09-25|CHEQUE|Shelter|Night shelter repair
+8|6|2100.00|2026-10-03|UPI|Food Distribution|
+9|1|5100.00|2026-10-09|UPI|General Fund|Festival donation
+10|4|12000.00|2026-10-12|BANK_TRANSFER|Medical Aid|

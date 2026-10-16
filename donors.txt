@@ -1,0 +1,7 @@
+# id|name|phone|email|address|registeredOn   (sample data - delete this folder's files for a fresh start)
+1|Ramesh Kumar|9000000001|ramesh.kumar@example.com|12 MG Road, Sample City|2026-08-03
+2|Sunita Verma|9000000002|sunita.verma@example.com|Sector 5, Sample City|2026-08-10
+3|Anil Mehta|9000000003||45 Park Street, Sample City|2026-08-21
+4|Priya Singh|9000000004|priya.singh@example.com||2026-09-02
+5|Mohd. Imran|9000000005|imran@example.com|Lake View Colony, Sample City|2026-09-15
+6|Kavita Joshi|9000000006|kavita.joshi@example.com|Green Park, Sample City|2026-10-01
